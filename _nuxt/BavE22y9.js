@@ -1,1 +1,0 @@
-import{m as o,_ as t,o as s,c as n,ag as a}from"./C78RvZpi.js";const c=o({name:"Selection",setup(){}}),r={class:"selection"};function _(e,d,i,l,p,f){return s(),n("main",r,[a(e.$slots,"default",{},void 0,!0)])}const u=t(c,[["render",_],["__scopeId","data-v-42594eff"]]);export{u as default};

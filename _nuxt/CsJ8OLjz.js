@@ -1,1 +1,0 @@
-import{m as e,_ as o,o as t,c as a,a as n}from"./C78RvZpi.js";const c=e({name:"shop"}),p={class:"shop"};function r(_,s,u,d,i,f){return t(),a("div",p,s[0]||(s[0]=[n("h2",{class:"shop__title"},"Магазин",-1)]))}const m=o(c,[["render",r],["__scopeId","data-v-82e6b0c1"]]);export{m as default};
