@@ -1,0 +1,1 @@
+import{m as t,_ as a,o as n,c as o,ag as s}from"./C78RvZpi.js";const r=t({name:"Start"});function c(e,l,p,f,m,_){return n(),o("main",null,[s(e.$slots,"default")])}const i=a(r,[["render",c]]);export{i as default};
