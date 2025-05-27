@@ -1,1 +1,0 @@
-import{m as s,_ as c,o,c as t,a}from"./DIc1lTRk.js";const n=s({name:"Dice"}),d={class:"dice"};function r(_,e,i,p,m,f){return o(),t("div",d,e[0]||(e[0]=[a("div",{class:"dice__element"},"🎲",-1)]))}const u=c(n,[["render",r],["__scopeId","data-v-ec90805c"]]);export{u as default};
