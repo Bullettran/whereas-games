@@ -1,1 +1,0 @@
-import{m as t,_ as s,o,c as a,ag as n}from"./Ciub7dEi.js";const c=t({name:"Default",setup(){}}),r={class:"default"};function d(e,f,l,_,p,u){return o(),a("div",r,[n(e.$slots,"default")])}const m=s(c,[["render",d]]);export{m as default};
